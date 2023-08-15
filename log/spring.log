@@ -1,0 +1,7 @@
+2023-08-09T11:53:42.303+08:00  INFO 83141 --- [main] com.angelee.community.LoggerTest         : Starting LoggerTest using Java 18.0.1.1 with PID 83141 (started by karkinos in /Users/karkinos/IdeaProjects/nowcoder/community)
+2023-08-09T11:53:42.304+08:00  INFO 83141 --- [main] com.angelee.community.LoggerTest         : No active profile set, falling back to 1 default profile: "default"
+2023-08-09T11:53:42.923+08:00  INFO 83141 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2023-08-09T11:53:43.013+08:00  INFO 83141 --- [main] com.angelee.community.LoggerTest         : Started LoggerTest in 0.848 seconds (process running for 1.301)
+2023-08-09T11:53:43.434+08:00  INFO 83141 --- [main] com.angelee.community.LoggerTest         : info
+2023-08-09T11:53:43.434+08:00  WARN 83141 --- [main] com.angelee.community.LoggerTest         : warn
+2023-08-09T11:53:43.434+08:00 ERROR 83141 --- [main] com.angelee.community.LoggerTest         : error
